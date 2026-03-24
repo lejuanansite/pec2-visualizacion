@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+
+# Raw datasets (descargados con download_datasets.sh)
+data/*.csv
+data/*.net
+data/*.zip

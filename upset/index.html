@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UpSet Plot · PEC2</title>
+  <link rel="stylesheet" href="../css/main.css">
+  <style>
+    #upset-svg {
+      width: 100%;
+      background: #f8f9fe;
+      border-radius: 6px;
+      display: block;
+    }
+
+    /* Barras de intersección */
+    .bar-intersection { fill: #4361ee; }
+    .bar-intersection:hover { fill: #2a9d8f; cursor: pointer; }
+
+    /* Barras de conjunto */
+    .bar-set { fill: #adb5bd; }
+
+    /* Matriz */
+    .matrix-dot-active { fill: #1a1a2e; }
+    .matrix-dot-inactive { fill: #e0e0e0; }
+    .matrix-line { stroke: #1a1a2e; stroke-width: 2.5px; }
+
+    /* Etiquetas */
+    .set-label { font-size: 12px; fill: #333; font-weight: 600; }
+    .axis-label { font-size: 10px; fill: #888; }
+    .bar-value  { font-size: 10px; fill: #555; }
+
+    /* Tooltip */
+    #tooltip {
+      position: fixed;
+      background: rgba(20,20,40,0.93);
+      color: #fff;
+      padding: 0.55rem 0.9rem;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      max-width: 240px;
+      line-height: 1.5;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.15s;
+      z-index: 999;
+    }
+
+    .viz-description em {
+      font-style: normal;
+      font-weight: 600;
+      color: #4361ee;
+    }
+  </style>
+</head>
+<body>
+  <header class="viz-header">
+    <a href="../index.html">← Volver al índice</a>
+    <h1>Superhero Powers</h1>
+    <p class="grupo">Grupo III · Menos habituales o específicas</p>
+  </header>
+
+  <div class="viz-container">
+    <div class="viz-description">
+      <strong>¿Qué es?</strong> El UpSet Plot visualiza intersecciones entre múltiples conjuntos
+      mediante una matriz combinada con gráficos de barras, superando las limitaciones del
+      diagrama de Venn para más de 3-4 conjuntos.<br><br>
+      <strong>Cómo leerlo:</strong> Las <em>barras superiores</em> muestran cuántos héroes
+      comparten exactamente esa combinación de poderes. Los <em>puntos conectados</em>
+      en la matriz indican qué poderes forman esa intersección. Las
+      <em>barras laterales</em> muestran el total de héroes con cada poder.<br><br>
+      <strong>Datos:</strong> 150 superhéroes de Marvel y DC Comics, clasificados según
+      los 8 poderes más frecuentes: Super Strength, Stamina, Durability, Super Speed,
+      Flight, Agility, Accelerated Healing y Reflexes.
+      Un héroe puede tener varios poderes simultáneamente.
+      Fuente: <a href="https://www.kaggle.com/datasets/claudiodavi/superhero-set" target="_blank">Superhero Dataset — Kaggle</a> (CC0).
+    </div>
+
+    <div class="viz-chart">
+      <svg id="upset-svg"></svg>
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="chart.js"></script>
+</body>
+</html>

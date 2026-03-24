@@ -1,0 +1,173 @@
+[
+  {
+    "year": "165",
+    "event": "Antonine Plague",
+    "category": "Smallpox or measles",
+    "date": "165–180 (possibly up to 190)",
+    "deaths": "5–10 million",
+    "location": "Roman Empire",
+    "description": "Antonine Plague"
+  },
+  {
+    "year": "541",
+    "event": "Plague of Justinian",
+    "category": "Bubonic plague",
+    "date": "541–549",
+    "deaths": "15–100 million",
+    "location": "North Africa, Europe and West Asia",
+    "description": "Plague of Justinian"
+  },
+  {
+    "year": "735",
+    "event": "735–737 Japanese smallpox epidemic",
+    "category": "Smallpox",
+    "date": "735–737",
+    "deaths": "2 million",
+    "location": "Japan",
+    "description": "735–737 Japanese smallpox epidemic"
+  },
+  {
+    "year": "1346",
+    "event": "Black Death",
+    "category": "Bubonic plague",
+    "date": "1346–1353",
+    "deaths": "75–200 million",
+    "location": "Europe, Asia, and North Africa",
+    "description": "Black Death"
+  },
+  {
+    "year": "1519",
+    "event": "1520 Mexico smallpox epidemic",
+    "category": "Smallpox",
+    "date": "1519–1520",
+    "deaths": "5–8 million",
+    "location": "Mexico",
+    "description": "1520 Mexico smallpox epidemic"
+  },
+  {
+    "year": "1545",
+    "event": "Cocoliztli epidemic of 1545–1548",
+    "category": "Cocoliztli",
+    "date": "1545–1548",
+    "deaths": "5–15 million",
+    "location": "Mexico",
+    "description": "Cocoliztli epidemic of 1545–1548"
+  },
+  {
+    "year": "1576",
+    "event": "Cocoliztli epidemic of 1576",
+    "category": "Cocoliztli",
+    "date": "1576–1580",
+    "deaths": "2–2.5 million",
+    "location": "Mexico",
+    "description": "Cocoliztli epidemic of 1576"
+  },
+  {
+    "year": "1629",
+    "event": "1629–1631 Italian plague",
+    "category": "Bubonic plague",
+    "date": "1629–1631",
+    "deaths": "1 million",
+    "location": "Italy",
+    "description": "1629–1631 Italian plague"
+  },
+  {
+    "year": "1656",
+    "event": "Naples Plague",
+    "category": "Bubonic plague",
+    "date": "1656–1658",
+    "deaths": "1.25 million",
+    "location": "Southern Italy",
+    "description": "Naples Plague"
+  },
+  {
+    "year": "1772",
+    "event": "1772–1773 Persian Plague",
+    "category": "Bubonic plague",
+    "date": "1772–1773",
+    "deaths": "2 million",
+    "location": "Persia",
+    "description": "1772–1773 Persian Plague"
+  },
+  {
+    "year": "1846",
+    "event": "1846–1860 cholera pandemic",
+    "category": "Cholera",
+    "date": "1846–1860",
+    "deaths": "1 million+",
+    "location": "Worldwide",
+    "description": "1846–1860 cholera pandemic"
+  },
+  {
+    "year": "1855",
+    "event": "Third plague pandemic",
+    "category": "Bubonic plague",
+    "date": "1855–1960",
+    "deaths": "12–15 million",
+    "location": "Worldwide",
+    "description": "Third plague pandemic"
+  },
+  {
+    "year": "1889",
+    "event": "1889–1890 flu pandemic",
+    "category": "Influenza (disputed)",
+    "date": "1889−1890",
+    "deaths": "1 million",
+    "location": "–",
+    "description": "1889–1890 flu pandemic"
+  },
+  {
+    "year": "1918",
+    "event": "Spanish flu",
+    "category": "Influenza A/H1N1",
+    "date": "1918–1920",
+    "deaths": "17–100 million",
+    "location": "Worldwide",
+    "description": "Spanish flu"
+  },
+  {
+    "year": "1918",
+    "event": "1918–1922 Russia typhus epidemic",
+    "category": "Typhus",
+    "date": "1918–1922",
+    "deaths": "2–3 million",
+    "location": "Russia",
+    "description": "1918–1922 Russia typhus epidemic"
+  },
+  {
+    "year": "1957",
+    "event": "1957–1958 influenza pandemic",
+    "category": "Influenza A/H2N2",
+    "date": "1957–1958",
+    "deaths": "1–4 million",
+    "location": "Worldwide",
+    "description": "1957–1958 influenza pandemic"
+  },
+  {
+    "year": "1968",
+    "event": "Hong Kong flu",
+    "category": "Influenza A/H3N2",
+    "date": "1968–1969",
+    "deaths": "1–4 million",
+    "location": "Worldwide",
+    "description": "Hong Kong flu"
+  },
+  {
+    "year": "1981",
+    "event": "HIV/AIDS global pandemic",
+    "category": "HIV/AIDS",
+    "date": "1981–present",
+    "deaths": "40.1 million (as of 2021)",
+    "location": "Worldwide",
+    "description": "HIV/AIDS global pandemic"
+  },
+  {
+    "year": "2019",
+    "event": "COVID-19 pandemic",
+    "category": "COVID-19",
+    "date": "2019–present",
+    "deaths": "7–28 million (as of November 2022)",
+    "location": "Worldwide",
+    "description": "COVID-19 pandemic"
+  }
+]

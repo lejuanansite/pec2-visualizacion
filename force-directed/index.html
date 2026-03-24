@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Force-Directed Graph · PEC2</title>
+  <link rel="stylesheet" href="../css/main.css">
+  <style>
+    .controls {
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.2rem;
+      font-size: 0.9rem;
+    }
+    .controls label { font-weight: 600; color: #333; }
+    .year-slider {
+      -webkit-appearance: none;
+      width: 260px; height: 6px;
+      border-radius: 3px;
+      background: #d0d7f5;
+      outline: none;
+      cursor: pointer;
+    }
+    .year-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 18px; height: 18px;
+      border-radius: 50%;
+      background: #4361ee;
+      cursor: pointer;
+    }
+    #year-display {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #4361ee;
+      min-width: 50px;
+    }
+
+    /* Leyenda de regiones */
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem 1.2rem;
+      margin-bottom: 1rem;
+      font-size: 0.82rem;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+    .legend-dot {
+      width: 12px; height: 12px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    #graph-svg {
+      width: 100%;
+      height: 560px;
+      background: #f8f9fe;
+      border-radius: 6px;
+    }
+
+    .node circle { stroke: #fff; stroke-width: 2px; cursor: grab; }
+    .node text   { font-size: 11px; pointer-events: none; fill: #333; }
+    .link        { stroke: #aac4f5; stroke-linecap: round; }
+
+    #tooltip {
+      position: fixed;
+      background: rgba(20,20,40,0.93);
+      color: #fff;
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      max-width: 220px;
+      line-height: 1.5;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.15s;
+      z-index: 999;
+    }
+  </style>
+</head>
+<body>
+  <header class="viz-header">
+    <a href="../index.html">← Volver al índice</a>
+    <h1>International Trade Network</h1>
+    <p class="grupo">Grupo II · Habituales y específicas</p>
+  </header>
+
+  <div class="viz-container">
+    <div class="viz-description">
+      <strong>¿Qué es?</strong> Un grafo dirigido por fuerzas representa entidades como nodos y sus
+      relaciones como aristas. Las posiciones se calculan simulando fuerzas físicas de atracción
+      (aristas como resortes) y repulsión (nodos como cargas eléctricas).<br><br>
+      <strong>Datos:</strong> Red de comercio internacional entre los 20 países con mayor volumen
+      de intercambio (2000–2018). El tamaño de cada nodo refleja el volumen total de comercio del
+      país; el grosor de cada arista, el volumen bilateral entre los dos países. Usa el slider
+      para explorar cómo evoluciona la red a lo largo del tiempo.<br/>
+      Fuente: <a href="https://www.kaggle.com/datasets/yasirtariq/tradenetwork" target="_blank">Trade Network — Kaggle</a> (ODbL 1.0).
+      Regiones: <a href="https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region" target="_blank">Country Mapping ISO — Kaggle</a> (CC BY-SA 4.0).
+    </div>
+
+    <div class="viz-chart">
+      <div class="controls">
+        <label>Año:</label>
+        <input type="range" class="year-slider" id="year-slider"
+               min="0" max="4" step="1" value="0">
+        <span id="year-display">2000</span>
+        <span style="color:#888;font-size:0.8rem">← arrastra para ver la evolución</span>
+      </div>
+      <div class="legend" id="legend"></div>
+      <svg id="graph-svg"></svg>
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+  <script src="chart.js"></script>
+</body>
+</html>

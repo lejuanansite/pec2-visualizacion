@@ -1,0 +1,2444 @@
+{
+  "nodes": [
+    {
+      "id": "KOR",
+      "label": "KOR",
+      "region": "Asia",
+      "trade": 4742604911,
+      "trade_by_year": {
+        "2000": 314439038,
+        "2005": 536129754,
+        "2010": 851128513,
+        "2015": 906446005,
+        "2018": 2134461601
+      }
+    },
+    {
+      "id": "MEX",
+      "label": "MEX",
+      "region": "Americas",
+      "trade": 3868267029,
+      "trade_by_year": {
+        "2000": 339926313,
+        "2005": 430193262,
+        "2010": 612518618,
+        "2015": 790835273,
+        "2018": 1694793563
+      }
+    },
+    {
+      "id": "HKG",
+      "label": "HKG",
+      "region": "Asia",
+      "trade": 3360475608,
+      "trade_by_year": {
+        "2000": 249554348,
+        "2005": 336387406,
+        "2010": 479161356,
+        "2015": 563230019,
+        "2018": 1732142478
+      }
+    },
+    {
+      "id": "USA",
+      "label": "USA",
+      "region": "Americas",
+      "trade": 18903264075,
+      "trade_by_year": {
+        "2000": 1949749828,
+        "2005": 2560785364,
+        "2010": 3101318029,
+        "2015": 3618791738,
+        "2018": 7672619116
+      }
+    },
+    {
+      "id": "GBR",
+      "label": "GBR",
+      "region": "Europe",
+      "trade": 5498352754,
+      "trade_by_year": {
+        "2000": 617799845,
+        "2005": 850082868,
+        "2010": 979184493,
+        "2015": 960050644,
+        "2018": 2091234902
+      }
+    },
+    {
+      "id": "BEL",
+      "label": "BEL",
+      "region": "Europe",
+      "trade": 3838867525,
+      "trade_by_year": {
+        "2000": 314699928,
+        "2005": 554465146,
+        "2010": 682721572,
+        "2015": 660626466,
+        "2018": 1626354413
+      }
+    },
+    {
+      "id": "MYS",
+      "label": "MYS",
+      "region": "Asia",
+      "trade": 2239288625,
+      "trade_by_year": {
+        "2000": 187078182,
+        "2005": 273166203,
+        "2010": 405568160,
+        "2015": 423106752,
+        "2018": 950369328
+      }
+    },
+    {
+      "id": "RUS",
+      "label": "RUS",
+      "region": "Europe",
+      "trade": 2845719708,
+      "trade_by_year": {
+        "2000": 133070792,
+        "2005": 323410756,
+        "2010": 598083081,
+        "2015": 479422150,
+        "2018": 1311732928
+      }
+    },
+    {
+      "id": "CAN",
+      "label": "CAN",
+      "region": "Americas",
+      "trade": 4408391210,
+      "trade_by_year": {
+        "2000": 506809429,
+        "2005": 661549892,
+        "2010": 765325890,
+        "2015": 798852488,
+        "2018": 1675853510
+      }
+    },
+    {
+      "id": "IND",
+      "label": "IND",
+      "region": "Asia",
+      "trade": 2698040038,
+      "trade_by_year": {
+        "2000": 78850653,
+        "2005": 189345334,
+        "2010": 495026951,
+        "2015": 564647561,
+        "2018": 1370169540
+      }
+    },
+    {
+      "id": "CHN",
+      "label": "CHN",
+      "region": "Asia",
+      "trade": 16702099553,
+      "trade_by_year": {
+        "2000": 580314723,
+        "2005": 1492973091,
+        "2010": 2915441314,
+        "2015": 3455117634,
+        "2018": 8258252791
+      }
+    },
+    {
+      "id": "ESP",
+      "label": "ESP",
+      "region": "Europe",
+      "trade": 3123023133,
+      "trade_by_year": {
+        "2000": 252795508,
+        "2005": 462560402,
+        "2010": 533355472,
+        "2015": 549278549,
+        "2018": 1325033201
+      }
+    },
+    {
+      "id": "DEU",
+      "label": "DEU",
+      "region": "Europe",
+      "trade": 12179200976,
+      "trade_by_year": {
+        "2000": 979999802,
+        "2005": 1630772558,
+        "2010": 2132050909,
+        "2015": 2177844932,
+        "2018": 5258532775
+      }
+    },
+    {
+      "id": "SGP",
+      "label": "SGP",
+      "region": "Asia",
+      "trade": 2739033139,
+      "trade_by_year": {
+        "2000": 221708149,
+        "2005": 328499710,
+        "2010": 496040724,
+        "2015": 473594099,
+        "2018": 1219190457
+      }
+    },
+    {
+      "id": "ITA",
+      "label": "ITA",
+      "region": "Europe",
+      "trade": 4705608853,
+      "trade_by_year": {
+        "2000": 423882031,
+        "2005": 675321733,
+        "2010": 851082027,
+        "2015": 808454973,
+        "2018": 1946868089
+      }
+    },
+    {
+      "id": "THA",
+      "label": "THA",
+      "region": "Asia",
+      "trade": 2023293553,
+      "trade_by_year": {
+        "2000": 126289193,
+        "2005": 227630742,
+        "2010": 360975467,
+        "2015": 395409539,
+        "2018": 912988613
+      }
+    },
+    {
+      "id": "NLD",
+      "label": "NLD",
+      "region": "Europe",
+      "trade": 4667396194,
+      "trade_by_year": {
+        "2000": 350655250,
+        "2005": 579106966,
+        "2010": 809418255,
+        "2015": 788132540,
+        "2018": 2140083183
+      }
+    },
+    {
+      "id": "FRA",
+      "label": "FRA",
+      "region": "Europe",
+      "trade": 5949113908,
+      "trade_by_year": {
+        "2000": 577473360,
+        "2005": 885845754,
+        "2010": 1071114701,
+        "2015": 1037581813,
+        "2018": 2377098280
+      }
+    },
+    {
+      "id": "JPN",
+      "label": "JPN",
+      "region": "Asia",
+      "trade": 7359335217,
+      "trade_by_year": {
+        "2000": 833490896,
+        "2005": 1106752344,
+        "2010": 1422343005,
+        "2015": 1249854123,
+        "2018": 2746894850
+      }
+    },
+    {
+      "id": "CHE",
+      "label": "CHE",
+      "region": "Europe",
+      "trade": 2085186239,
+      "trade_by_year": {
+        "2000": 165215166,
+        "2005": 250988772,
+        "2010": 373837297,
+        "2015": 390062405,
+        "2018": 905082600
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "BEL",
+      "target": "NLD",
+      "value": 31000000.0,
+      "year": 2000
+    },
+    {
+      "source": "BEL",
+      "target": "DEU",
+      "value": 29000000.0,
+      "year": 2000
+    },
+    {
+      "source": "BEL",
+      "target": "FRA",
+      "value": 22000000.0,
+      "year": 2000
+    },
+    {
+      "source": "BEL",
+      "target": "GBR",
+      "value": 15000000.0,
+      "year": 2000
+    },
+    {
+      "source": "BEL",
+      "target": "USA",
+      "value": 13000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CAN",
+      "target": "USA",
+      "value": 150000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CAN",
+      "target": "JPN",
+      "value": 11000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CAN",
+      "target": "GBR",
+      "value": 8700000.0,
+      "year": 2000
+    },
+    {
+      "source": "CAN",
+      "target": "MEX",
+      "value": 8100000.0,
+      "year": 2000
+    },
+    {
+      "source": "CAN",
+      "target": "CHN",
+      "value": 7600000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHE",
+      "target": "DEU",
+      "value": 24000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHE",
+      "target": "FRA",
+      "value": 8400000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHE",
+      "target": "ITA",
+      "value": 7700000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHE",
+      "target": "USA",
+      "value": 6500000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHE",
+      "target": "GBR",
+      "value": 4800000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHN",
+      "target": "JPN",
+      "value": 42000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHN",
+      "target": "KOR",
+      "value": 23000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHN",
+      "target": "USA",
+      "value": 22000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHN",
+      "target": "DEU",
+      "value": 10000000.0,
+      "year": 2000
+    },
+    {
+      "source": "CHN",
+      "target": "HKG",
+      "value": 9400000.0,
+      "year": 2000
+    },
+    {
+      "source": "DEU",
+      "target": "FRA",
+      "value": 48000000.0,
+      "year": 2000
+    },
+    {
+      "source": "DEU",
+      "target": "NLD",
+      "value": 42000000.0,
+      "year": 2000
+    },
+    {
+      "source": "DEU",
+      "target": "USA",
+      "value": 41000000.0,
+      "year": 2000
+    },
+    {
+      "source": "DEU",
+      "target": "GBR",
+      "value": 34000000.0,
+      "year": 2000
+    },
+    {
+      "source": "DEU",
+      "target": "ITA",
+      "value": 33000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ESP",
+      "target": "FRA",
+      "value": 26000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ESP",
+      "target": "DEU",
+      "value": 23000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ESP",
+      "target": "ITA",
+      "value": 13000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ESP",
+      "target": "GBR",
+      "value": 11000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ESP",
+      "target": "USA",
+      "value": 8000000.0,
+      "year": 2000
+    },
+    {
+      "source": "FRA",
+      "target": "USA",
+      "value": 27000000.0,
+      "year": 2000
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "value": 26000000.0,
+      "year": 2000
+    },
+    {
+      "source": "FRA",
+      "target": "GBR",
+      "value": 24000000.0,
+      "year": 2000
+    },
+    {
+      "source": "GBR",
+      "target": "USA",
+      "value": 47000000.0,
+      "year": 2000
+    },
+    {
+      "source": "GBR",
+      "target": "NLD",
+      "value": 23000000.0,
+      "year": 2000
+    },
+    {
+      "source": "GBR",
+      "target": "JPN",
+      "value": 21000000.0,
+      "year": 2000
+    },
+    {
+      "source": "HKG",
+      "target": "JPN",
+      "value": 26000000.0,
+      "year": 2000
+    },
+    {
+      "source": "HKG",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2000
+    },
+    {
+      "source": "HKG",
+      "target": "KOR",
+      "value": 10000000.0,
+      "year": 2000
+    },
+    {
+      "source": "HKG",
+      "target": "SGP",
+      "value": 9600000.0,
+      "year": 2000
+    },
+    {
+      "source": "IND",
+      "target": "BEL",
+      "value": 3200000.0,
+      "year": 2000
+    },
+    {
+      "source": "IND",
+      "target": "USA",
+      "value": 2900000.0,
+      "year": 2000
+    },
+    {
+      "source": "IND",
+      "target": "GBR",
+      "value": 2400000.0,
+      "year": 2000
+    },
+    {
+      "source": "IND",
+      "target": "JPN",
+      "value": 2200000.0,
+      "year": 2000
+    },
+    {
+      "source": "IND",
+      "target": "DEU",
+      "value": 1800000.0,
+      "year": 2000
+    },
+    {
+      "source": "ITA",
+      "target": "NLD",
+      "value": 14000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ITA",
+      "target": "GBR",
+      "value": 13000000.0,
+      "year": 2000
+    },
+    {
+      "source": "ITA",
+      "target": "USA",
+      "value": 12000000.0,
+      "year": 2000
+    },
+    {
+      "source": "JPN",
+      "target": "USA",
+      "value": 72000000.0,
+      "year": 2000
+    },
+    {
+      "source": "JPN",
+      "target": "KOR",
+      "value": 20000000.0,
+      "year": 2000
+    },
+    {
+      "source": "JPN",
+      "target": "MYS",
+      "value": 14000000.0,
+      "year": 2000
+    },
+    {
+      "source": "JPN",
+      "target": "DEU",
+      "value": 13000000.0,
+      "year": 2000
+    },
+    {
+      "source": "KOR",
+      "target": "USA",
+      "value": 29000000.0,
+      "year": 2000
+    },
+    {
+      "source": "KOR",
+      "target": "MYS",
+      "value": 4900000.0,
+      "year": 2000
+    },
+    {
+      "source": "KOR",
+      "target": "DEU",
+      "value": 4600000.0,
+      "year": 2000
+    },
+    {
+      "source": "MEX",
+      "target": "USA",
+      "value": 130000000.0,
+      "year": 2000
+    },
+    {
+      "source": "MEX",
+      "target": "JPN",
+      "value": 6500000.0,
+      "year": 2000
+    },
+    {
+      "source": "MEX",
+      "target": "DEU",
+      "value": 5800000.0,
+      "year": 2000
+    },
+    {
+      "source": "MEX",
+      "target": "KOR",
+      "value": 3700000.0,
+      "year": 2000
+    },
+    {
+      "source": "MYS",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2000
+    },
+    {
+      "source": "MYS",
+      "target": "SGP",
+      "value": 12000000.0,
+      "year": 2000
+    },
+    {
+      "source": "MYS",
+      "target": "THA",
+      "value": 3200000.0,
+      "year": 2000
+    },
+    {
+      "source": "NLD",
+      "target": "USA",
+      "value": 19000000.0,
+      "year": 2000
+    },
+    {
+      "source": "NLD",
+      "target": "FRA",
+      "value": 9100000.0,
+      "year": 2000
+    },
+    {
+      "source": "RUS",
+      "target": "DEU",
+      "value": 3900000.0,
+      "year": 2000
+    },
+    {
+      "source": "RUS",
+      "target": "USA",
+      "value": 2700000.0,
+      "year": 2000
+    },
+    {
+      "source": "RUS",
+      "target": "ITA",
+      "value": 1200000.0,
+      "year": 2000
+    },
+    {
+      "source": "RUS",
+      "target": "FRA",
+      "value": 1200000.0,
+      "year": 2000
+    },
+    {
+      "source": "RUS",
+      "target": "CHN",
+      "value": 949000.0,
+      "year": 2000
+    },
+    {
+      "source": "SGP",
+      "target": "JPN",
+      "value": 23000000.0,
+      "year": 2000
+    },
+    {
+      "source": "SGP",
+      "target": "USA",
+      "value": 20000000.0,
+      "year": 2000
+    },
+    {
+      "source": "SGP",
+      "target": "CHN",
+      "value": 7100000.0,
+      "year": 2000
+    },
+    {
+      "source": "SGP",
+      "target": "THA",
+      "value": 5800000.0,
+      "year": 2000
+    },
+    {
+      "source": "THA",
+      "target": "JPN",
+      "value": 15000000.0,
+      "year": 2000
+    },
+    {
+      "source": "THA",
+      "target": "USA",
+      "value": 7300000.0,
+      "year": 2000
+    },
+    {
+      "source": "THA",
+      "target": "CHN",
+      "value": 3400000.0,
+      "year": 2000
+    },
+    {
+      "source": "BEL",
+      "target": "NLD",
+      "value": 56000000.0,
+      "year": 2005
+    },
+    {
+      "source": "BEL",
+      "target": "DEU",
+      "value": 55000000.0,
+      "year": 2005
+    },
+    {
+      "source": "BEL",
+      "target": "FRA",
+      "value": 36000000.0,
+      "year": 2005
+    },
+    {
+      "source": "BEL",
+      "target": "GBR",
+      "value": 22000000.0,
+      "year": 2005
+    },
+    {
+      "source": "BEL",
+      "target": "USA",
+      "value": 17000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CAN",
+      "target": "USA",
+      "value": 180000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CAN",
+      "target": "CHN",
+      "value": 24000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CAN",
+      "target": "MEX",
+      "value": 12000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CAN",
+      "target": "JPN",
+      "value": 12000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CAN",
+      "target": "GBR",
+      "value": 8600000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHE",
+      "target": "DEU",
+      "value": 40000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHE",
+      "target": "ITA",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHE",
+      "target": "FRA",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHE",
+      "target": "USA",
+      "value": 7100000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHE",
+      "target": "NLD",
+      "value": 6100000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHN",
+      "target": "JPN",
+      "value": 100000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHN",
+      "target": "KOR",
+      "value": 77000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHN",
+      "target": "USA",
+      "value": 49000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHN",
+      "target": "DEU",
+      "value": 31000000.0,
+      "year": 2005
+    },
+    {
+      "source": "CHN",
+      "target": "MYS",
+      "value": 20000000.0,
+      "year": 2005
+    },
+    {
+      "source": "DEU",
+      "target": "FRA",
+      "value": 66000000.0,
+      "year": 2005
+    },
+    {
+      "source": "DEU",
+      "target": "NLD",
+      "value": 59000000.0,
+      "year": 2005
+    },
+    {
+      "source": "DEU",
+      "target": "USA",
+      "value": 50000000.0,
+      "year": 2005
+    },
+    {
+      "source": "DEU",
+      "target": "GBR",
+      "value": 47000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ESP",
+      "target": "DEU",
+      "value": 43000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ESP",
+      "target": "FRA",
+      "value": 41000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ESP",
+      "target": "ITA",
+      "value": 25000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ESP",
+      "target": "GBR",
+      "value": 16000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ESP",
+      "target": "CHN",
+      "value": 15000000.0,
+      "year": 2005
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "value": 41000000.0,
+      "year": 2005
+    },
+    {
+      "source": "FRA",
+      "target": "USA",
+      "value": 28000000.0,
+      "year": 2005
+    },
+    {
+      "source": "GBR",
+      "target": "USA",
+      "value": 44000000.0,
+      "year": 2005
+    },
+    {
+      "source": "GBR",
+      "target": "FRA",
+      "value": 39000000.0,
+      "year": 2005
+    },
+    {
+      "source": "GBR",
+      "target": "CHN",
+      "value": 36000000.0,
+      "year": 2005
+    },
+    {
+      "source": "GBR",
+      "target": "NLD",
+      "value": 35000000.0,
+      "year": 2005
+    },
+    {
+      "source": "HKG",
+      "target": "CHN",
+      "value": 130000000.0,
+      "year": 2005
+    },
+    {
+      "source": "HKG",
+      "target": "JPN",
+      "value": 33000000.0,
+      "year": 2005
+    },
+    {
+      "source": "HKG",
+      "target": "SGP",
+      "value": 17000000.0,
+      "year": 2005
+    },
+    {
+      "source": "HKG",
+      "target": "USA",
+      "value": 15000000.0,
+      "year": 2005
+    },
+    {
+      "source": "HKG",
+      "target": "KOR",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "IND",
+      "target": "CHN",
+      "value": 10000000.0,
+      "year": 2005
+    },
+    {
+      "source": "IND",
+      "target": "USA",
+      "value": 8200000.0,
+      "year": 2005
+    },
+    {
+      "source": "IND",
+      "target": "DEU",
+      "value": 5500000.0,
+      "year": 2005
+    },
+    {
+      "source": "IND",
+      "target": "BEL",
+      "value": 5200000.0,
+      "year": 2005
+    },
+    {
+      "source": "IND",
+      "target": "KOR",
+      "value": 4400000.0,
+      "year": 2005
+    },
+    {
+      "source": "ITA",
+      "target": "DEU",
+      "value": 66000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ITA",
+      "target": "NLD",
+      "value": 21000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ITA",
+      "target": "CHN",
+      "value": 18000000.0,
+      "year": 2005
+    },
+    {
+      "source": "ITA",
+      "target": "BEL",
+      "value": 17000000.0,
+      "year": 2005
+    },
+    {
+      "source": "JPN",
+      "target": "USA",
+      "value": 65000000.0,
+      "year": 2005
+    },
+    {
+      "source": "JPN",
+      "target": "KOR",
+      "value": 24000000.0,
+      "year": 2005
+    },
+    {
+      "source": "JPN",
+      "target": "DEU",
+      "value": 18000000.0,
+      "year": 2005
+    },
+    {
+      "source": "JPN",
+      "target": "THA",
+      "value": 16000000.0,
+      "year": 2005
+    },
+    {
+      "source": "KOR",
+      "target": "USA",
+      "value": 31000000.0,
+      "year": 2005
+    },
+    {
+      "source": "KOR",
+      "target": "DEU",
+      "value": 9700000.0,
+      "year": 2005
+    },
+    {
+      "source": "KOR",
+      "target": "MYS",
+      "value": 6000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MEX",
+      "target": "USA",
+      "value": 120000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MEX",
+      "target": "CHN",
+      "value": 18000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MEX",
+      "target": "JPN",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MEX",
+      "target": "DEU",
+      "value": 8700000.0,
+      "year": 2005
+    },
+    {
+      "source": "MEX",
+      "target": "KOR",
+      "value": 6500000.0,
+      "year": 2005
+    },
+    {
+      "source": "MYS",
+      "target": "JPN",
+      "value": 16000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MYS",
+      "target": "USA",
+      "value": 15000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MYS",
+      "target": "SGP",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "MYS",
+      "target": "THA",
+      "value": 6000000.0,
+      "year": 2005
+    },
+    {
+      "source": "NLD",
+      "target": "USA",
+      "value": 24000000.0,
+      "year": 2005
+    },
+    {
+      "source": "NLD",
+      "target": "CHN",
+      "value": 23000000.0,
+      "year": 2005
+    },
+    {
+      "source": "RUS",
+      "target": "DEU",
+      "value": 13000000.0,
+      "year": 2005
+    },
+    {
+      "source": "RUS",
+      "target": "CHN",
+      "value": 7300000.0,
+      "year": 2005
+    },
+    {
+      "source": "RUS",
+      "target": "JPN",
+      "value": 5800000.0,
+      "year": 2005
+    },
+    {
+      "source": "RUS",
+      "target": "USA",
+      "value": 4600000.0,
+      "year": 2005
+    },
+    {
+      "source": "RUS",
+      "target": "ITA",
+      "value": 4400000.0,
+      "year": 2005
+    },
+    {
+      "source": "SGP",
+      "target": "USA",
+      "value": 23000000.0,
+      "year": 2005
+    },
+    {
+      "source": "SGP",
+      "target": "CHN",
+      "value": 21000000.0,
+      "year": 2005
+    },
+    {
+      "source": "SGP",
+      "target": "JPN",
+      "value": 19000000.0,
+      "year": 2005
+    },
+    {
+      "source": "SGP",
+      "target": "KOR",
+      "value": 8600000.0,
+      "year": 2005
+    },
+    {
+      "source": "THA",
+      "target": "CHN",
+      "value": 11000000.0,
+      "year": 2005
+    },
+    {
+      "source": "THA",
+      "target": "USA",
+      "value": 8700000.0,
+      "year": 2005
+    },
+    {
+      "source": "THA",
+      "target": "SGP",
+      "value": 5400000.0,
+      "year": 2005
+    },
+    {
+      "source": "BEL",
+      "target": "NLD",
+      "value": 73000000.0,
+      "year": 2010
+    },
+    {
+      "source": "BEL",
+      "target": "DEU",
+      "value": 63000000.0,
+      "year": 2010
+    },
+    {
+      "source": "BEL",
+      "target": "FRA",
+      "value": 43000000.0,
+      "year": 2010
+    },
+    {
+      "source": "BEL",
+      "target": "USA",
+      "value": 23000000.0,
+      "year": 2010
+    },
+    {
+      "source": "BEL",
+      "target": "GBR",
+      "value": 22000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CAN",
+      "target": "USA",
+      "value": 200000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CAN",
+      "target": "CHN",
+      "value": 43000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CAN",
+      "target": "MEX",
+      "value": 21000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CAN",
+      "target": "JPN",
+      "value": 13000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CAN",
+      "target": "DEU",
+      "value": 11000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHE",
+      "target": "DEU",
+      "value": 56000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHE",
+      "target": "ITA",
+      "value": 18000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHE",
+      "target": "FRA",
+      "value": 15000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHE",
+      "target": "USA",
+      "value": 9400000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHE",
+      "target": "NLD",
+      "value": 8000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHN",
+      "target": "JPN",
+      "value": 180000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHN",
+      "target": "KOR",
+      "value": 140000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHN",
+      "target": "USA",
+      "value": 100000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHN",
+      "target": "DEU",
+      "value": 74000000.0,
+      "year": 2010
+    },
+    {
+      "source": "CHN",
+      "target": "MYS",
+      "value": 50000000.0,
+      "year": 2010
+    },
+    {
+      "source": "DEU",
+      "target": "NLD",
+      "value": 81000000.0,
+      "year": 2010
+    },
+    {
+      "source": "DEU",
+      "target": "FRA",
+      "value": 80000000.0,
+      "year": 2010
+    },
+    {
+      "source": "DEU",
+      "target": "USA",
+      "value": 61000000.0,
+      "year": 2010
+    },
+    {
+      "source": "DEU",
+      "target": "ITA",
+      "value": 55000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ESP",
+      "target": "DEU",
+      "value": 37000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ESP",
+      "target": "FRA",
+      "value": 34000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ESP",
+      "target": "CHN",
+      "value": 25000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ESP",
+      "target": "ITA",
+      "value": 22000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ESP",
+      "target": "NLD",
+      "value": 14000000.0,
+      "year": 2010
+    },
+    {
+      "source": "FRA",
+      "target": "CHN",
+      "value": 49000000.0,
+      "year": 2010
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "value": 45000000.0,
+      "year": 2010
+    },
+    {
+      "source": "GBR",
+      "target": "DEU",
+      "value": 76000000.0,
+      "year": 2010
+    },
+    {
+      "source": "GBR",
+      "target": "CHN",
+      "value": 62000000.0,
+      "year": 2010
+    },
+    {
+      "source": "GBR",
+      "target": "USA",
+      "value": 56000000.0,
+      "year": 2010
+    },
+    {
+      "source": "GBR",
+      "target": "NLD",
+      "value": 42000000.0,
+      "year": 2010
+    },
+    {
+      "source": "GBR",
+      "target": "FRA",
+      "value": 37000000.0,
+      "year": 2010
+    },
+    {
+      "source": "HKG",
+      "target": "CHN",
+      "value": 200000000.0,
+      "year": 2010
+    },
+    {
+      "source": "HKG",
+      "target": "JPN",
+      "value": 40000000.0,
+      "year": 2010
+    },
+    {
+      "source": "HKG",
+      "target": "SGP",
+      "value": 31000000.0,
+      "year": 2010
+    },
+    {
+      "source": "HKG",
+      "target": "USA",
+      "value": 23000000.0,
+      "year": 2010
+    },
+    {
+      "source": "HKG",
+      "target": "KOR",
+      "value": 17000000.0,
+      "year": 2010
+    },
+    {
+      "source": "IND",
+      "target": "CHN",
+      "value": 41000000.0,
+      "year": 2010
+    },
+    {
+      "source": "IND",
+      "target": "USA",
+      "value": 18000000.0,
+      "year": 2010
+    },
+    {
+      "source": "IND",
+      "target": "DEU",
+      "value": 11000000.0,
+      "year": 2010
+    },
+    {
+      "source": "IND",
+      "target": "KOR",
+      "value": 9900000.0,
+      "year": 2010
+    },
+    {
+      "source": "IND",
+      "target": "JPN",
+      "value": 8200000.0,
+      "year": 2010
+    },
+    {
+      "source": "ITA",
+      "target": "CHN",
+      "value": 38000000.0,
+      "year": 2010
+    },
+    {
+      "source": "ITA",
+      "target": "NLD",
+      "value": 26000000.0,
+      "year": 2010
+    },
+    {
+      "source": "JPN",
+      "target": "USA",
+      "value": 69000000.0,
+      "year": 2010
+    },
+    {
+      "source": "JPN",
+      "target": "KOR",
+      "value": 29000000.0,
+      "year": 2010
+    },
+    {
+      "source": "JPN",
+      "target": "MYS",
+      "value": 23000000.0,
+      "year": 2010
+    },
+    {
+      "source": "JPN",
+      "target": "THA",
+      "value": 21000000.0,
+      "year": 2010
+    },
+    {
+      "source": "KOR",
+      "target": "USA",
+      "value": 41000000.0,
+      "year": 2010
+    },
+    {
+      "source": "KOR",
+      "target": "DEU",
+      "value": 14000000.0,
+      "year": 2010
+    },
+    {
+      "source": "KOR",
+      "target": "RUS",
+      "value": 9900000.0,
+      "year": 2010
+    },
+    {
+      "source": "MEX",
+      "target": "USA",
+      "value": 150000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MEX",
+      "target": "CHN",
+      "value": 46000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MEX",
+      "target": "JPN",
+      "value": 15000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MEX",
+      "target": "KOR",
+      "value": 13000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MEX",
+      "target": "DEU",
+      "value": 11000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MYS",
+      "target": "USA",
+      "value": 18000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MYS",
+      "target": "SGP",
+      "value": 18000000.0,
+      "year": 2010
+    },
+    {
+      "source": "MYS",
+      "target": "THA",
+      "value": 10000000.0,
+      "year": 2010
+    },
+    {
+      "source": "NLD",
+      "target": "CHN",
+      "value": 41000000.0,
+      "year": 2010
+    },
+    {
+      "source": "NLD",
+      "target": "USA",
+      "value": 31000000.0,
+      "year": 2010
+    },
+    {
+      "source": "RUS",
+      "target": "CHN",
+      "value": 39000000.0,
+      "year": 2010
+    },
+    {
+      "source": "RUS",
+      "target": "DEU",
+      "value": 27000000.0,
+      "year": 2010
+    },
+    {
+      "source": "RUS",
+      "target": "JPN",
+      "value": 10000000.0,
+      "year": 2010
+    },
+    {
+      "source": "RUS",
+      "target": "ITA",
+      "value": 10000000.0,
+      "year": 2010
+    },
+    {
+      "source": "RUS",
+      "target": "USA",
+      "value": 9800000.0,
+      "year": 2010
+    },
+    {
+      "source": "SGP",
+      "target": "USA",
+      "value": 36000000.0,
+      "year": 2010
+    },
+    {
+      "source": "SGP",
+      "target": "CHN",
+      "value": 34000000.0,
+      "year": 2010
+    },
+    {
+      "source": "SGP",
+      "target": "JPN",
+      "value": 24000000.0,
+      "year": 2010
+    },
+    {
+      "source": "SGP",
+      "target": "KOR",
+      "value": 18000000.0,
+      "year": 2010
+    },
+    {
+      "source": "THA",
+      "target": "CHN",
+      "value": 24000000.0,
+      "year": 2010
+    },
+    {
+      "source": "THA",
+      "target": "USA",
+      "value": 10000000.0,
+      "year": 2010
+    },
+    {
+      "source": "THA",
+      "target": "KOR",
+      "value": 7600000.0,
+      "year": 2010
+    },
+    {
+      "source": "BEL",
+      "target": "NLD",
+      "value": 62000000.0,
+      "year": 2015
+    },
+    {
+      "source": "BEL",
+      "target": "DEU",
+      "value": 47000000.0,
+      "year": 2015
+    },
+    {
+      "source": "BEL",
+      "target": "FRA",
+      "value": 35000000.0,
+      "year": 2015
+    },
+    {
+      "source": "BEL",
+      "target": "USA",
+      "value": 32000000.0,
+      "year": 2015
+    },
+    {
+      "source": "BEL",
+      "target": "GBR",
+      "value": 19000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CAN",
+      "target": "USA",
+      "value": 220000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CAN",
+      "target": "CHN",
+      "value": 51000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CAN",
+      "target": "MEX",
+      "value": 24000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CAN",
+      "target": "DEU",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CAN",
+      "target": "JPN",
+      "value": 12000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHE",
+      "target": "DEU",
+      "value": 50000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHE",
+      "target": "ITA",
+      "value": 17000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHE",
+      "target": "FRA",
+      "value": 15000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHE",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHE",
+      "target": "CHN",
+      "value": 13000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHN",
+      "target": "KOR",
+      "value": 170000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHN",
+      "target": "USA",
+      "value": 140000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHN",
+      "target": "JPN",
+      "value": 140000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHN",
+      "target": "DEU",
+      "value": 87000000.0,
+      "year": 2015
+    },
+    {
+      "source": "CHN",
+      "target": "MYS",
+      "value": 53000000.0,
+      "year": 2015
+    },
+    {
+      "source": "DEU",
+      "target": "NLD",
+      "value": 88000000.0,
+      "year": 2015
+    },
+    {
+      "source": "DEU",
+      "target": "FRA",
+      "value": 74000000.0,
+      "year": 2015
+    },
+    {
+      "source": "DEU",
+      "target": "USA",
+      "value": 69000000.0,
+      "year": 2015
+    },
+    {
+      "source": "DEU",
+      "target": "ITA",
+      "value": 54000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ESP",
+      "target": "DEU",
+      "value": 40000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ESP",
+      "target": "FRA",
+      "value": 33000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ESP",
+      "target": "CHN",
+      "value": 26000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ESP",
+      "target": "ITA",
+      "value": 19000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ESP",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "FRA",
+      "target": "CHN",
+      "value": 52000000.0,
+      "year": 2015
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "value": 41000000.0,
+      "year": 2015
+    },
+    {
+      "source": "FRA",
+      "target": "USA",
+      "value": 39000000.0,
+      "year": 2015
+    },
+    {
+      "source": "GBR",
+      "target": "DEU",
+      "value": 94000000.0,
+      "year": 2015
+    },
+    {
+      "source": "GBR",
+      "target": "CHN",
+      "value": 63000000.0,
+      "year": 2015
+    },
+    {
+      "source": "GBR",
+      "target": "USA",
+      "value": 54000000.0,
+      "year": 2015
+    },
+    {
+      "source": "GBR",
+      "target": "NLD",
+      "value": 48000000.0,
+      "year": 2015
+    },
+    {
+      "source": "GBR",
+      "target": "FRA",
+      "value": 39000000.0,
+      "year": 2015
+    },
+    {
+      "source": "HKG",
+      "target": "CHN",
+      "value": 260000000.0,
+      "year": 2015
+    },
+    {
+      "source": "HKG",
+      "target": "JPN",
+      "value": 34000000.0,
+      "year": 2015
+    },
+    {
+      "source": "HKG",
+      "target": "SGP",
+      "value": 32000000.0,
+      "year": 2015
+    },
+    {
+      "source": "HKG",
+      "target": "USA",
+      "value": 27000000.0,
+      "year": 2015
+    },
+    {
+      "source": "HKG",
+      "target": "KOR",
+      "value": 22000000.0,
+      "year": 2015
+    },
+    {
+      "source": "IND",
+      "target": "CHN",
+      "value": 62000000.0,
+      "year": 2015
+    },
+    {
+      "source": "IND",
+      "target": "USA",
+      "value": 18000000.0,
+      "year": 2015
+    },
+    {
+      "source": "IND",
+      "target": "KOR",
+      "value": 13000000.0,
+      "year": 2015
+    },
+    {
+      "source": "IND",
+      "target": "DEU",
+      "value": 12000000.0,
+      "year": 2015
+    },
+    {
+      "source": "IND",
+      "target": "MYS",
+      "value": 9600000.0,
+      "year": 2015
+    },
+    {
+      "source": "ITA",
+      "target": "CHN",
+      "value": 31000000.0,
+      "year": 2015
+    },
+    {
+      "source": "ITA",
+      "target": "NLD",
+      "value": 23000000.0,
+      "year": 2015
+    },
+    {
+      "source": "JPN",
+      "target": "USA",
+      "value": 68000000.0,
+      "year": 2015
+    },
+    {
+      "source": "JPN",
+      "target": "KOR",
+      "value": 27000000.0,
+      "year": 2015
+    },
+    {
+      "source": "JPN",
+      "target": "MYS",
+      "value": 21000000.0,
+      "year": 2015
+    },
+    {
+      "source": "JPN",
+      "target": "THA",
+      "value": 20000000.0,
+      "year": 2015
+    },
+    {
+      "source": "KOR",
+      "target": "USA",
+      "value": 44000000.0,
+      "year": 2015
+    },
+    {
+      "source": "KOR",
+      "target": "DEU",
+      "value": 21000000.0,
+      "year": 2015
+    },
+    {
+      "source": "KOR",
+      "target": "RUS",
+      "value": 11000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MEX",
+      "target": "USA",
+      "value": 190000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MEX",
+      "target": "CHN",
+      "value": 70000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MEX",
+      "target": "JPN",
+      "value": 17000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MEX",
+      "target": "KOR",
+      "value": 15000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MEX",
+      "target": "DEU",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MYS",
+      "target": "SGP",
+      "value": 21000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MYS",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "MYS",
+      "target": "THA",
+      "value": 11000000.0,
+      "year": 2015
+    },
+    {
+      "source": "NLD",
+      "target": "CHN",
+      "value": 36000000.0,
+      "year": 2015
+    },
+    {
+      "source": "NLD",
+      "target": "USA",
+      "value": 32000000.0,
+      "year": 2015
+    },
+    {
+      "source": "RUS",
+      "target": "CHN",
+      "value": 35000000.0,
+      "year": 2015
+    },
+    {
+      "source": "RUS",
+      "target": "DEU",
+      "value": 19000000.0,
+      "year": 2015
+    },
+    {
+      "source": "RUS",
+      "target": "USA",
+      "value": 11000000.0,
+      "year": 2015
+    },
+    {
+      "source": "RUS",
+      "target": "ITA",
+      "value": 7900000.0,
+      "year": 2015
+    },
+    {
+      "source": "RUS",
+      "target": "JPN",
+      "value": 6800000.0,
+      "year": 2015
+    },
+    {
+      "source": "SGP",
+      "target": "CHN",
+      "value": 42000000.0,
+      "year": 2015
+    },
+    {
+      "source": "SGP",
+      "target": "USA",
+      "value": 33000000.0,
+      "year": 2015
+    },
+    {
+      "source": "SGP",
+      "target": "KOR",
+      "value": 18000000.0,
+      "year": 2015
+    },
+    {
+      "source": "SGP",
+      "target": "JPN",
+      "value": 18000000.0,
+      "year": 2015
+    },
+    {
+      "source": "THA",
+      "target": "CHN",
+      "value": 41000000.0,
+      "year": 2015
+    },
+    {
+      "source": "THA",
+      "target": "USA",
+      "value": 14000000.0,
+      "year": 2015
+    },
+    {
+      "source": "THA",
+      "target": "KOR",
+      "value": 7000000.0,
+      "year": 2015
+    },
+    {
+      "source": "BEL",
+      "target": "DEU",
+      "value": 83644447.4,
+      "year": 2018
+    },
+    {
+      "source": "BEL",
+      "target": "NLD",
+      "value": 81631211.9,
+      "year": 2018
+    },
+    {
+      "source": "BEL",
+      "target": "FRA",
+      "value": 67772382.3,
+      "year": 2018
+    },
+    {
+      "source": "CAN",
+      "target": "USA",
+      "value": 306142664.0,
+      "year": 2018
+    },
+    {
+      "source": "CAN",
+      "target": "CHN",
+      "value": 58326741.8,
+      "year": 2018
+    },
+    {
+      "source": "CAN",
+      "target": "MEX",
+      "value": 28394540.7,
+      "year": 2018
+    },
+    {
+      "source": "CHE",
+      "target": "DEU",
+      "value": 56340020.0,
+      "year": 2018
+    },
+    {
+      "source": "CHE",
+      "target": "USA",
+      "value": 40417592.6,
+      "year": 2018
+    },
+    {
+      "source": "CHE",
+      "target": "ITA",
+      "value": 19712554.3,
+      "year": 2018
+    },
+    {
+      "source": "CHE",
+      "target": "FRA",
+      "value": 17409129.4,
+      "year": 2018
+    },
+    {
+      "source": "CHN",
+      "target": "USA",
+      "value": 479700084.7,
+      "year": 2018
+    },
+    {
+      "source": "CHN",
+      "target": "HKG",
+      "value": 302198946.7,
+      "year": 2018
+    },
+    {
+      "source": "CHN",
+      "target": "KOR",
+      "value": 204483616.7,
+      "year": 2018
+    },
+    {
+      "source": "CHN",
+      "target": "JPN",
+      "value": 180130754.1,
+      "year": 2018
+    },
+    {
+      "source": "DEU",
+      "target": "USA",
+      "value": 134317677.5,
+      "year": 2018
+    },
+    {
+      "source": "DEU",
+      "target": "CHN",
+      "value": 126747396.9,
+      "year": 2018
+    },
+    {
+      "source": "DEU",
+      "target": "FRA",
+      "value": 123978870.9,
+      "year": 2018
+    },
+    {
+      "source": "DEU",
+      "target": "NLD",
+      "value": 104876534.3,
+      "year": 2018
+    },
+    {
+      "source": "ESP",
+      "target": "FRA",
+      "value": 50286630.8,
+      "year": 2018
+    },
+    {
+      "source": "ESP",
+      "target": "DEU",
+      "value": 47253933.6,
+      "year": 2018
+    },
+    {
+      "source": "ESP",
+      "target": "CHN",
+      "value": 31737897.9,
+      "year": 2018
+    },
+    {
+      "source": "FRA",
+      "target": "CHN",
+      "value": 59036202.1,
+      "year": 2018
+    },
+    {
+      "source": "FRA",
+      "target": "ITA",
+      "value": 50314342.0,
+      "year": 2018
+    },
+    {
+      "source": "GBR",
+      "target": "DEU",
+      "value": 91018614.3,
+      "year": 2018
+    },
+    {
+      "source": "GBR",
+      "target": "USA",
+      "value": 65935483.7,
+      "year": 2018
+    },
+    {
+      "source": "GBR",
+      "target": "CHN",
+      "value": 63381288.3,
+      "year": 2018
+    },
+    {
+      "source": "GBR",
+      "target": "NLD",
+      "value": 55887102.6,
+      "year": 2018
+    },
+    {
+      "source": "HKG",
+      "target": "USA",
+      "value": 45853565.2,
+      "year": 2018
+    },
+    {
+      "source": "HKG",
+      "target": "SGP",
+      "value": 40080383.0,
+      "year": 2018
+    },
+    {
+      "source": "HKG",
+      "target": "KOR",
+      "value": 35528148.4,
+      "year": 2018
+    },
+    {
+      "source": "IND",
+      "target": "CHN",
+      "value": 73579886.2,
+      "year": 2018
+    },
+    {
+      "source": "IND",
+      "target": "USA",
+      "value": 51628244.5,
+      "year": 2018
+    },
+    {
+      "source": "IND",
+      "target": "KOR",
+      "value": 16388465.4,
+      "year": 2018
+    },
+    {
+      "source": "ITA",
+      "target": "DEU",
+      "value": 82886221.2,
+      "year": 2018
+    },
+    {
+      "source": "ITA",
+      "target": "USA",
+      "value": 44711618.5,
+      "year": 2018
+    },
+    {
+      "source": "JPN",
+      "target": "USA",
+      "value": 140591229.5,
+      "year": 2018
+    },
+    {
+      "source": "JPN",
+      "target": "KOR",
+      "value": 52389343.2,
+      "year": 2018
+    },
+    {
+      "source": "KOR",
+      "target": "USA",
+      "value": 73037167.9,
+      "year": 2018
+    },
+    {
+      "source": "MEX",
+      "target": "USA",
+      "value": 340251984.9,
+      "year": 2018
+    },
+    {
+      "source": "MEX",
+      "target": "CHN",
+      "value": 83471119.8,
+      "year": 2018
+    },
+    {
+      "source": "MEX",
+      "target": "JPN",
+      "value": 18172868.4,
+      "year": 2018
+    },
+    {
+      "source": "MEX",
+      "target": "DEU",
+      "value": 17564649.9,
+      "year": 2018
+    },
+    {
+      "source": "MYS",
+      "target": "CHN",
+      "value": 43315848.5,
+      "year": 2018
+    },
+    {
+      "source": "MYS",
+      "target": "SGP",
+      "value": 34418058.2,
+      "year": 2018
+    },
+    {
+      "source": "MYS",
+      "target": "USA",
+      "value": 22508742.5,
+      "year": 2018
+    },
+    {
+      "source": "NLD",
+      "target": "CHN",
+      "value": 46018749.8,
+      "year": 2018
+    },
+    {
+      "source": "RUS",
+      "target": "CHN",
+      "value": 56019903.8,
+      "year": 2018
+    },
+    {
+      "source": "RUS",
+      "target": "NLD",
+      "value": 43450496.6,
+      "year": 2018
+    },
+    {
+      "source": "RUS",
+      "target": "DEU",
+      "value": 34184357.8,
+      "year": 2018
+    },
+    {
+      "source": "SGP",
+      "target": "CHN",
+      "value": 49575072.4,
+      "year": 2018
+    },
+    {
+      "source": "THA",
+      "target": "CHN",
+      "value": 49826220.8,
+      "year": 2018
+    },
+    {
+      "source": "THA",
+      "target": "JPN",
+      "value": 34781800.4,
+      "year": 2018
+    },
+    {
+      "source": "THA",
+      "target": "USA",
+      "value": 28111766.0,
+      "year": 2018
+    }
+  ]
+}
