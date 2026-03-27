@@ -1,32 +1,5 @@
 [
   {
-    "year": "165",
-    "event": "Antonine Plague",
-    "category": "Smallpox or measles",
-    "date": "165–180 (possibly up to 190)",
-    "deaths": "5–10 million",
-    "location": "Roman Empire",
-    "description": "Antonine Plague"
-  },
-  {
-    "year": "541",
-    "event": "Plague of Justinian",
-    "category": "Bubonic plague",
-    "date": "541–549",
-    "deaths": "15–100 million",
-    "location": "North Africa, Europe and West Asia",
-    "description": "Plague of Justinian"
-  },
-  {
-    "year": "735",
-    "event": "735–737 Japanese smallpox epidemic",
-    "category": "Smallpox",
-    "date": "735–737",
-    "deaths": "2 million",
-    "location": "Japan",
-    "description": "735–737 Japanese smallpox epidemic"
-  },
-  {
     "year": "1346",
     "event": "Black Death",
     "category": "Bubonic plague",

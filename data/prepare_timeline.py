@@ -38,6 +38,7 @@ with open(input_path, encoding='utf-8') as f:
             'description': clean(row['Epidemics/pandemics'])
         })
 
+data = [d for d in data if int(d['year']) >= 1300]
 data.sort(key=lambda x: int(x['year']))
 
 output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'timeline_diseases.json')
